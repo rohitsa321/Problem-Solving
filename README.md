@@ -13,3 +13,11 @@ Here, you can find many coding problems with their solution.
       sum:6
 4. Check whether the number is an Armstrong number or not.<a href="https://github.com/rohitsa321/problemsolving/commit/20e243f449042aac624c07b81f99b9c3ece2d364">code(java)</a>
 5. To find the highest mark and average mark secured by Hari in "s" number of subjects.<a href="https://github.com/rohitsa321/problemsolving/commit/6880f469e640eeb152d0a204b2861dbddd70a012">code(java)</a>
+
+### Pattern
+
+6. Write a program that reads in a number n and prints out n rows each containing n star characters, '*'. 
+Thus if n is 3, then your program should print
+   [ * * *]
+   [ * * *]
+   [ * * *]
