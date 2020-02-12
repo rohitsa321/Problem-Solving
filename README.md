@@ -16,4 +16,4 @@ Here, you can find many coding problems with their solution.
 
 ### Pattern
 
-6. Write a program that reads in a number n and prints out n rows each containing n star characters, '*'.<a href="https://github.com/rohitsa321/problemsolving/commit/539c27bffa077829cf1a7e9affa4b1e5bdb75523">code(java)</a>
+6. Write a program that reads in a number n and prints out n rows each containing n star characters, '*'.<a href="https://github.com/rohitsa321/problemsolving/commit/539c27bffa077829cf1a7e9affa4b1e5bdb75523">code(c++)</a>
