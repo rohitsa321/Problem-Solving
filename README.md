@@ -11,3 +11,4 @@ Here, you can find many coding problems with their solution.
       0 2 4 6 8
       Even number divisible by 3:0 6
       sum:6
+4. Check whether the number is an Armstrong number or not.<a href="https://github.com/rohitsa321/problemsolving/commit/20e243f449042aac624c07b81f99b9c3ece2d364">code(java)</a>
