@@ -11,3 +11,9 @@ int main(){
   }
 
 }
+/*
+    for n=3 it will print
+       ***
+       ***
+       ***
+ */
