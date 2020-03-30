@@ -1,5 +1,5 @@
 import java.util.Scanner;  
-public class Exercise1_1 {
+public class Nptel_Q1 {
        public static void main(String[] args) {
        Scanner s = new Scanner(System.in); 
        double radius= s.nextDouble();
