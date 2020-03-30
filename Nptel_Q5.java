@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Exercise1_5{
+public class Nptel_Q5{
     public static void main(String[] args) {
 	 Scanner input = new Scanner(System.in);
          double mark_avg;
