@@ -19,3 +19,7 @@ class ProjectEuler_Q2{
          
   }
 }
+
+
+
+//Answeris 6857
