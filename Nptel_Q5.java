@@ -5,11 +5,11 @@ public class Nptel_Q5{
          double mark_avg;
          int result;
          int i;
-         int s;
+         int s;//no of subjects
       //define size of array
        s = input.nextInt();
      //The array is defined "arr" and inserted marks into it of integer type.
-      int[] arr = new int[s];   
+      int[] arr = new int[s];  //To store subject no. 
       
 	 for(i=0;i<arr.length;i++)
 	  {
