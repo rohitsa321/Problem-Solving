@@ -69,3 +69,10 @@ Here, you can find many coding problems with their solution.
    71636269561882670428252483600823257530420752963450
 
    Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?<a href="https://github.com/rohitsa321/Problem-Solving/blob/master/ProjectEq8.cpp">code(c++)</a>
+
+9. A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
+   a2 + b2 = c2
+   For example, 32 + 42 = 9 + 16 = 25 = 52.
+
+   There exists exactly one Pythagorean triplet for which a + b + c = 1000.
+   Find the product abc.<a href="https://github.com/rohitsa321/Problem-Solving/blob/master/ProjectEq9.cpp">code(c++)</a>
