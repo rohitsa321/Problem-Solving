@@ -107,3 +107,7 @@ Here, you can find many coding problems with their solution.
 
     What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in 
     the 20×20 grid?<a href="https://github.com/rohitsa321/Problem-Solving/blob/master/ProjectEq11.cpp">code(c++)</a>
+    
+## LeetCode
+   
+ 1. ZigZag Conversion<a href="https://github.com/rohitsa321/Problem-Solving/blob/master/leetcode1.cpp">code(c++)</a>
