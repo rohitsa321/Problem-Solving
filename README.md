@@ -79,6 +79,9 @@ Here, you can find many coding problems with their solution.
 
    There exists exactly one Pythagorean triplet for which a + b + c = 1000.
    Find the product abc.<a href="https://github.com/rohitsa321/Problem-Solving/blob/master/ProjectEq9.cpp">code(c++)</a>
+   
+10. The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
+    Find the sum of all the primes below two million.<a href="https://github.com/rohitsa321/Problem-Solving/blob/master/ProjectEq10.cpp">code(c++)</a>
 
 11. In the 20×20 grid below, four numbers along a diagonal line have been marked in red.
     
