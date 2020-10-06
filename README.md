@@ -114,3 +114,10 @@ Here, you can find many coding problems with their solution.
 ## LeetCode
    
  1. ZigZag Conversion<a href="https://github.com/rohitsa321/Problem-Solving/blob/master/leetcode1.cpp">code(c++)</a>
+
+
+
+codechef october long challange
+
+Q no 2  change the class name
+
